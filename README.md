@@ -1,6 +1,6 @@
 # Portfolio
 
-![Portfolio](prt intro.jpg)
+![Portfolio](prt.intro.jpg)
 
 ---
 
