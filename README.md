@@ -1,14 +1,6 @@
 # Portfolio
 
-![Portfolio Image](prt intro.jpg)
-
----
-
-## Introduction
-
-This is My Portfolio that describes about my Skills
-
-![Portfolio Video](Vn (prt).mp4)
+![Portfolio](prt intro.jpg)
 
 ---
 
@@ -30,19 +22,8 @@ You can also clone & create this repo locally with the following command:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) – For structuring and presenting hypertext
 - [CSS3](https://en.wikipedia.org/wiki/CSS) – Used for structuring, styling, and formatting web pages.
-- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
-- Poppins/font – Optimize custom fonts and remove external network requests for improved performance
-
-### Tools
-
-- [HTML5](https://www.w3.org/html/)
-  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- [CSS3](https://www.w3schools.com/css/)
-  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- [Tailwind CSS](https://tailwindcss.com/)
-  ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+- [Tailwind Css](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
+- Poppins/ font – Optimize custom fonts and remove external network requests for improved performance
 
 ### Hooks & Utilities –
 
@@ -50,7 +31,7 @@ You can also clone & create this repo locally with the following command:
 
 ### Code Quality –
 
-- [Prettier](https://prettier.io/) – Opinionated code formatter for consistent code style
+- [UseLocalStorage](https://prettier.io/) – Opinionated code formatter for consistent code style
 
 ---
 
