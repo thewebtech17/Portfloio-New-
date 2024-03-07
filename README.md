@@ -1,6 +1,6 @@
 # Portfolio
 
-![Portfolio](prt.intro.jpg)
+![Portfolio](https://github.com/thewebtech17/Portfloio-New-/blob/main/prt%20intro.jpg)
 
 ---
 
