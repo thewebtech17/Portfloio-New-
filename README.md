@@ -31,7 +31,7 @@ You can also clone & create this repo locally with the following command:
 
 ### Code Quality –
 
-- [UseLocalStorage](https://prettier.io/) – Opinionated code formatter for consistent code style
+- [prettier](https://prettier.io/) – Opinionated code formatter for consistent code style
 
 ---
 
