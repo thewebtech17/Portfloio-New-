@@ -4,6 +4,14 @@
 
 ---
 
+#Introduction
+<video width="640" height="360" controls muted>
+  <source src="https://github.com/thewebtech17/Portfloio-New-/blob/main/Ns-prt%20(INtro).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## Try Out
 
 You can also clone & create this repo locally with the following command:
@@ -23,7 +31,7 @@ You can also clone & create this repo locally with the following command:
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) – For structuring and presenting hypertext
 - [CSS3](https://en.wikipedia.org/wiki/CSS) – Used for structuring, styling, and formatting web pages.
 - [Tailwind Css](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
-- Poppins/ font – Optimize custom fonts and remove external network requests for improved performance
+- [Poppins/ font](https://fonts.google.com/specimen/Poppins)– Optimize custom fonts and remove external network requests for improved performance
 
 ### Hooks & Utilities –
 
