@@ -5,10 +5,9 @@
 ---
 
 #Introduction
-<video width="640" height="360" controls muted>
-  <source src="https://github.com/thewebtech17/Portfloio-New-/blob/main/Ns-prt%20(INtro).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[![Introduction](https://github.com/thewebtech17/Portfloio-New-/blob/main/Ns-prt%20(INtro).mp4)
+
 
 ---
 
