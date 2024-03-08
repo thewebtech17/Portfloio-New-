@@ -4,9 +4,9 @@
 
 ---
 
-#Introduction
+# Live Preview
 
-[![Introduction](https://github.com/thewebtech17/Portfloio-New-/blob/main/Ns-prt%20(INtro).mp4)
+[Live Preview](https://nagendrasingh-tech.netlify.app/) 
 
 
 ---
@@ -15,7 +15,7 @@
 
 You can also clone & create this repo locally with the following command:
 
-[Clone Repo](https://github.com/thewebtech17/Portfloio-New-)
+[Clone Repo](https://github.com/thewebtech17/Portfloio-New-) 
 
 ---
 
