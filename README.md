@@ -19,7 +19,7 @@ You can also clone & create this repo locally with the following command:
 
 ---
 
-## Tech Stack + Features
+## Tech Stack + Feature's
 
 ### Platform –
 
