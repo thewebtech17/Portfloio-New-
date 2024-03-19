@@ -4,7 +4,7 @@
 
 ---
 
-# Live Preview
+# Live Previeww
 
 [Live Preview](https://nagendrasingh-tech.netlify.app/) 
 
